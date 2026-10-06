@@ -96,17 +96,6 @@
     color: var(--secondarycolor);
 }
 
-.note{
-    height: 200px;
-    padding-top: 300px;
-    color: var(--secondarycolor);
-    animation: fade-in 4s ease-in;
-    font-size: 50px;
-    color: rgba(255, 255, 255, 0.6);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center;
-}
-
 /* .note h2{
     font-size: 50px;
     color: blue;
